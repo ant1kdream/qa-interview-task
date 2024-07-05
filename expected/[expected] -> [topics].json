@@ -1,0 +1,39 @@
+{
+    "processed": {
+        "objects": {
+            "scenes": [
+                {
+                    "not_existing_key_add_left": "not_exist_left_value",
+                    "semantic_id": [
+                        "796be725-83fe-41"
+                    ],
+                    "nsfw": {
+                        "nsfw_score": 0.03316362202167511,
+                        "nsfw": "SFW"
+                    },
+                    "scene_recognition": [
+                        "unknown",
+                        {
+                            "score": 0.211,
+                            "class": "sssss/vegetation"
+                        }
+                    ],
+                    "just_iterables": [
+                        "a",
+                        "b",
+                        "c"
+                    ],
+                    "frame_id": 0,
+                    "captions": [
+                        "A black and white spiral pattern with a white hat small",
+                        "A black and white spiral pattern with a white hat small"
+                    ],
+                    "video_stream_id": 0
+                }
+            ]
+        }
+    },
+    "file": {
+        "name": "Pgm1_HD_DVCProHD_29p_0_tc_15_08_10_28"
+    }
+}

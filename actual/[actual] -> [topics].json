@@ -1,0 +1,40 @@
+{
+  "processed": {
+    "objects": {
+      "scenes": [
+        {
+          "not_existing_key_add_right": "not_exist_right_value",
+          "semantic_id": [
+            "796be725-83fe-456c-840c-4fb27e954941"
+          ],
+          "nsfw": "test_string",
+          "scene_recognition": [
+            {
+              "score": 0.30774984502919583,
+              "class": "desert/vegetation"
+            },
+            [
+              "check_values"
+            ],
+            {
+              "score": 0.20774984502919583,
+              "class": "new_scene/vegetation"
+            }
+          ],
+          "just_iterables": [
+            "a",
+            "d"
+          ],
+          "frame_id": 0,
+          "captions": {
+            "text": "A black and white spiral pattern with a white background"
+          },
+          "video_stream_id": 0
+        }
+      ]
+    }
+  },
+  "file": {
+    "name": "Pgm1_HD_DVCProHD_29p_0_tc_15_08_10_28"
+  }
+}
