@@ -1,0 +1,83 @@
+{
+  "processed": {
+    "objects": {
+      "scenes": [
+        {
+          "correlation_id": "c2c9b4e23150f2e051daf414d0681e031c68b24fb8a1e1400ffed28e4c5d988f",
+          "semantic_id": [
+            "796be725-83fe-456c-840c-4fb27e954941"
+          ],
+          "nsfw": "SFW",
+          "scene_recognition": [
+            {
+              "score": 0.2378738734556,
+              "class": "elevator/door"
+            },
+            {
+              "score": 0.2281231766047892,
+              "class": "desert/vegetation"
+            },
+            {
+              "score": "Exception on insert operation on Vespa. Exception 'NoneType' object is not iterable",
+              "class": "arena/performance"
+            }
+          ],
+          "ocr_results": [
+            {
+              "score": 0.585914005,
+              "preprocessing": "flipped",
+              "text": "الال اثال."
+            },
+            {
+              "score": 0.60872364,
+              "preprocessing": "grey",
+              "text": "20770"
+            }
+          ],
+          "hypernym": [
+            "electro-acoustic transducer",
+            "artefact",
+            "instrumentality",
+            "instrumentation",
+            "artifact",
+            "whole",
+            "object",
+            "physical object",
+            "physical entity",
+            "transducer",
+            "electrical device",
+            "device"
+          ],
+          "box": [
+            [
+              "244.0",
+              28.0
+            ],
+            [
+              266.0,
+              28.0
+            ],
+            [
+              266.9,
+              98.0
+            ],
+            [
+              244.0,
+              98.0
+            ]
+          ],
+          "frame_id": 0,
+          "captions": [
+            "A black and white spiral pattern with a white background",
+            "A black and white spiral pattern with a white background"
+          ],
+          "video_stream_id": 0
+        }
+      ]
+    }
+  },
+  "file": {
+    "name": "DVCProHD",
+    "extension": ".mp4"
+  }
+}

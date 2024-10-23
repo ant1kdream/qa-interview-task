@@ -1,0 +1,82 @@
+{
+  "processed": {
+    "objects": {
+      "scenes": [
+        {
+          "semantic_id": [
+            "a2136f2f-a437-451f-8d04-34ed8a9c751f"
+          ],
+          "nsfw": {
+            "nsfw_score": 0.03316362202167511,
+            "nsfw": "SFW"
+          },
+          "scene_recognition": [
+            {
+              "score": 0.8615968134433614,
+              "class": "elevator/door"
+            },
+            {
+              "score": 0.2281231766047892,
+              "class": "desert/vegetation"
+            }
+          ],
+          "scene_image": "s3://bucket/qa-data/DVCProHD_scene/dcd932a13a6651_scene_1.jpg",
+          "hypernym": [
+            "electro-acoustic transducer",
+            "transducer",
+            "electrical device",
+            "device",
+            "instrumentality",
+            "instrumentation",
+            "artifact",
+            "artefact",
+            "whole",
+            "unit",
+            "object",
+            "physical object",
+            "physical entity"
+          ],
+          "box": [
+            [
+              244.0,
+              28.0
+            ],
+            [
+              266.0,
+              28.0
+            ],
+            [
+              266.0,
+              98.0
+            ],
+            [
+              244.0,
+              98.0
+            ]
+          ],
+          "ocr_results": [
+            {
+              "score": 0.60872364,
+              "preprocessing": "grey",
+              "text": "20770"
+            },
+            {
+              "score": 0.585914005,
+              "preprocessing": "flipped",
+              "text": "الال اثال."
+            }
+          ],
+          "frame_id": 0,
+          "captions": {
+            "text": "A black and white spiral pattern with a white background"
+          },
+          "video_stream_id": 0
+        }
+      ]
+    }
+  },
+  "file": {
+    "name": "DVCProHD",
+    "extension": ".mp4"
+  }
+}
